@@ -1,0 +1,2 @@
+47.33 =>dueartion
+db.notes.insertOne({title:"event emitters",content:"to create jsevents",user:ObjectId("65c31a29af1571a4e026474b")})
